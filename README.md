@@ -1,5 +1,7 @@
 # Data architecture project
 
+**Portfolio context:** This repository is part of James Jennings' [Applied AI, Risk Analytics & Data Engineering portfolio](https://github.com/JJennings728/ZipSmart360/blob/main/PORTFOLIO.md).
+
 **Status: planning repository.** This repository was created for the Yield Orbit Core data-platform concept. It does not yet contain infrastructure code or a deployed platform.
 
 ## Working architecture example
